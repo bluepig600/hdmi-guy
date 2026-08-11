@@ -1,0 +1,10 @@
+# KiCad working files
+*.bak
+*.kicad_prl
+*-bak
+*-backups/
+_autosave-*
+
+# Output directories (optional, remove if you want to track Gerbers)
+plots/
+gbr/
